@@ -1,5 +1,5 @@
 # programming-101
-I’m a  programmer with a strong interest in crypto, farming, and business. My goal is to use technology and creativity to build projects that create long term impact, while growing step by step into someone who can turn ideas into real solutions.
+I’m a  programmer with a strong interest in crypto, and business. My goal is to use technology and creativity to build projects that create long term impact, while growing step by step into someone who can turn ideas into real solutions.
 # Programming101 class work 
 
 These are some of the beginner projects I’m working on in school to practice programming. They are small but help me understand the basics of html and problem solving
@@ -15,7 +15,7 @@ These are some of the beginner projects I’m working on in school to practice p
 
 ## Appendix
 
-programming language
+programming language.html
 level : beginner (school practice projects )
 purpose : to build a strong foundation in programming through simple projects 
 
