@@ -1,6 +1,6 @@
-# programming-101
+# Hi, I'm james maina 👋
 I’m a  programmer with a strong interest in crypto, and business. My goal is to use technology and creativity to build projects that create long term impact, while growing step by step into someone who can turn ideas into real solutions.
-# Programming101 class work 
+# Programming101  work 
 
 These are some of the beginner projects I’m working on in school to practice programming. They are small but help me understand the basics of html and problem solving
 
@@ -33,7 +33,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ## 🔗 Links
 [My GitHub Profile](https://github.com/jaymoh21)
 
-[My Project Repository](https://github.com/jaymoh21/programming-101)
+[My Project Repository](https://github.com/jaymoh21/jaymoh21)
 
 ## Other Common Github Profile Sections
 👩‍💻 I’m improving my coding foundation by practicing with real school assignments.
@@ -46,7 +46,8 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 💬 Python basics, problem solving, and practical projects...
 learning programming, and applying it in real projects
-📫 How to reach me...
+
+📫 How to reach me... mainajamesm2@gmail.com
 
 😄 he/him
 
@@ -116,4 +117,3 @@ If you have any feedback, please reach out to us at mainajamesm2@gmail.com
 For support, email mainajamesm2@gmail.com
 
 
-# Hi, I'm james maina 👋
