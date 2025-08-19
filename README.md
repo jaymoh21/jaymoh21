@@ -1,4 +1,4 @@
-# Hi, I'm james maina 👋
+# Hi, I'm James Maina 👋
 I’m a  programmer with a strong interest in crypto, and business. My goal is to use technology and creativity to build projects that create long term impact, while growing step by step into someone who can turn ideas into real solutions.
 # Programming101  work 
 
