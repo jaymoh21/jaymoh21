@@ -42,7 +42,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 👯‍♀️ I’m  collaborate on projects where I can learn, contribute, and build real solutions.
 
-🤔 problem-solving, and building beginner friendly apps.
+🤔 problem solving, and building beginner friendly apps.
 
 💬 Python basics, problem solving, and practical projects...
 learning programming, and applying it in real projects
@@ -109,7 +109,7 @@ Javascript, HTML, CSS...
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mainajamesm2@gmail.com
+If you have any feedback, please reach out to me at mainajamesm2@gmail.com
 
 
 ## Support
